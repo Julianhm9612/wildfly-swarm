@@ -19,7 +19,8 @@ This is a Wildfly swarm microservice example.
 
 ## Test
 
-The service listens on port **8098**
+The service listens on port **8098**  
+
 Try :
     http://127.0.0.1:8098/api/hello/world
 
